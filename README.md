@@ -1,2 +1,5 @@
 # hello-world
-A simple program saying "Hello World".
+
+Hey Team !
+
+I'm new here but I'm a fast clearner so no worries!
